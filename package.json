@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-method-undefined-calls",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Reports usage of class method calls that is not defined.",
   "keywords": [
     "eslint",
@@ -20,7 +20,7 @@
     "mocha": "7.2.0"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=8.0.0"
   },
   "license": "ISC"
 }
